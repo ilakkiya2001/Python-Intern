@@ -8,7 +8,7 @@ def num(a,b):    #defining a fuction
 
 num(10,5)       #calling a function
 #2
-def covid(name,temp):
+def covid(name,temp=98):
     print("Patient name:",name+" "+"Temperature:",temp)
 
-covid("Asha","98")
+covid("Asha","95")
