@@ -54,7 +54,8 @@ except:
   print("other error has occured")
 
 
-
+#4
+When the program has normal statements there is no need for try-except.
 
 #(5)input inside the try catch block
 try:
